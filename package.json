@@ -2,10 +2,7 @@
   "name": "twitter-clone",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "build": "npx tailwindcss -i ./css/input.css -o ./css/output.css --minify",
-    "dev": "vite"
-  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
